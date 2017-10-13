@@ -2,17 +2,18 @@
 
 
 
-aside {
+#sidebar {
 	float: right;
 	display: block;
-	width: 18rem;
-	height: 60rem;
-	border-width: 0.1em;
-	border-style: dashed;
-	border-color: black;
+	width: 250px;
+/* 	height: 60rem; */
+/* 	border-width: 0.1em; */
+/* 	border-style: dashed; */
+/* 	border-color: black; */
 	padding: 10px;
 	background: lightgray;
-	margin-right: 10px;
+	margin: 20px;
+/* 	margin-right: 10px; */
 }
 
 header {
@@ -22,12 +23,12 @@ section {
 	/* 	float: left; */
 	padding-left: 20px;
 	display: block;
-	width: 81rem;
-	height: 50rem;
+/* 	width: 81rem; */
+/* 	height: 50rem; */
 }
 
 footer {
-	clear: both;
+/* 	clear: both; */
 }
 
 /*horizontal nav */
@@ -52,7 +53,7 @@ nav ul li a{
 }
 a.active{
 	font-weight: bold;
-	background: coral;
+	background: cornflowerblue;
 }
 
 

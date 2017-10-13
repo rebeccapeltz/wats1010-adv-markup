@@ -1,0 +1,39 @@
+<table>
+<thead>
+<tr><th scope="col">Title</th><th scope="col">Format</th><th scope="col">Year</th></tr>
+</thead>
+<tbody>
+<tr><td scope="row">The Black Cat</td><td>story</td><td>1845</td></tr>
+<tr><td scope="row">The Cask of Amontillado</td><td>story</td><td>1846</td></tr>
+<tr><td scope="row">A Descent into the Maelstrom</td><td>story</td><td>1845</td></tr>
+<tr><td scope="row">The Facts in the Case of M. Valdemar</td><td>story</td><td>1845</td></tr>
+<tr><td scope="row">The Fall of the House of Usher</td><td>story</td><td>1839</td></tr>
+<tr><td scope="row">The Gold-Bug</td><td>story</td><td>1843</td></tr>
+<tr><td scope="row">Hop-Frog</td><td>story</td><td>1845</td></tr>
+<tr><td scope="row">The Imp of the Perverse</td><td>story</td><td>1850</td></tr>
+<tr><td scope="row">Ligeia</td><td>story</td><td>1838</td></tr>
+<tr><td scope="row">The Masque of the Red Death</td><td>story</td><td>1850</td></tr>
+<tr><td scope="row">The Murders in the Rue Morgue</td><td>story</td><td>1841</td></tr>
+<tr><td scope="row">The Oval Portrait</td><td>story</td><td>1850</td></tr>
+<tr><td scope="row">The Pit and the Pendulum</td><td>story</td><td>1850</td></tr>
+<tr><td scope="row">The Premature Burial</td><td>story</td><td>1850</td></tr>
+<tr><td scope="row">The Purloined Letter</td><td>story</td><td>1845</td></tr>
+<tr><td scope="row">The System of Doctor Tarr and Professor Fether</td><td>story</td><td>1856</td></tr>
+<tr><td scope="row">The Tell-Tale Heart</td><td>story</td><td>1850</td></tr>
+<tr><td scope="row">Annabel Lee</td><td>poem</td><td>1849</td></tr>
+<tr><td scope="row">The Bells</td><td>poem</td><td>1849</td></tr>
+<tr><td scope="row">The City in the Sea</td><td>poem</td><td>1831</td></tr>
+<tr><td scope="row">The Conqueror Worm</td><td>poem</td><td>1843</td></tr>
+<tr><td scope="row">A Dream Within a Dream</td><td>poem</td><td>1850</td></tr>
+<tr><td scope="row">Eldorado</td><td>poem</td><td>1849</td></tr>
+<tr><td scope="row">The Haunted Palace</td><td>poem</td><td>1839</td></tr>
+<tr><td scope="row">The Raven</td><td>poem</td><td>1845</td></tr>
+<tr><td scope="row">Politian</td><td>play</td><td>1835</td></tr>
+<tr><td scope="row">The Narrative of Arthur Gordon Pym of Nantucket</td><td>novel</td><td>1838</td></tr>
+<tr><td scope="row">The Balloon-Hoax</td><td>hoax</td><td>1844</td></tr>
+<tr><td scope="row">The Philosophy of Composition</td><td>essay</td><td>1846</td></tr>
+<tr><td scope="row">Eureka: A Prose Poem</td><td>essay</td><td>1848</td></tr>
+<tr><td scope="row">The Poetic Principle</td><td>essay</td><td>1848</td></tr>
+<tr><td scope="row">The Light-House</td><td>incomplete</td><td>1849</td></tr>
+</tbody>
+</table>
