@@ -1,64 +1,66 @@
 /* Styles for the Advanced Markup assignment. */
 
-
-
 #sidebar {
 	float: right;
 	display: block;
 	width: 250px;
-/* 	height: 60rem; */
-/* 	border-width: 0.1em; */
-/* 	border-style: dashed; */
-/* 	border-color: black; */
+	/* 	height: 60rem; */
+	/* 	border-width: 0.1em; */
+	/* 	border-style: dashed; */
+	/* 	border-color: black; */
 	padding: 10px;
 	background: lightgray;
 	margin: 20px;
-/* 	margin-right: 10px; */
+	/* 	margin-right: 10px; */
 }
 
 header {
 	padding-left: 20px;
 }
+
 section {
 	/* 	float: left; */
 	padding-left: 20px;
 	display: block;
-/* 	width: 81rem; */
-/* 	height: 50rem; */
+	/* 	width: 81rem; */
+	/* 	height: 50rem; */
 }
 
 footer {
-/* 	clear: both; */
+	/* 	clear: both; */
 }
 
+
 /*horizontal nav */
+
 nav ul {
 	margin: 0;
 	padding: 0;
 }
 
 nav ul li {
-	display: inline;	
+	display: inline;
 	width: 100px;
 	background: lightgray;
 }
 
-nav ul li a{
+nav ul li a {
 	color: black;
 	display: inline-block;
 	padding: 0px 5px 0px 5px;
-/* 	margin: 0px 5px 0px 0px; */
+	/* 	margin: 0px 5px 0px 0px; */
 	width: 100px;
 	text-decoration: none;
 }
-a.active{
+
+a.active {
 	font-weight: bold;
 	background: cornflowerblue;
 }
 
 
-
 /* tabular data */
+
 table,
 td,
 th {
@@ -81,10 +83,9 @@ div.scrollit tr:hover {
 }
 
 .scrollit {
-    overflow:scroll;
-    height:200px;
+	overflow: scroll;
+	height: 200px;
 }
-
 
 .poem {
 	margin: 1rem 5rem 0rem;
@@ -94,12 +95,22 @@ div.scrollit tr:hover {
 	line-height: 1.5;
 }
 
-ul.poem li:first-child {
+li p {
+	margin: 0px;
+}
+
+li p::first-letter {
+	font-size: 200%;
+	color: blue;
+}
+
+
+/* ul.poem li:first-child {
 	float: left;
 	font-size: 38px;
 	line-height: 1;
 	margin: 2px 5px 0 0;
-}
+} */
 
 ul.poem {
 	list-style-type: none;
