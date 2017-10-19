@@ -2,16 +2,16 @@
 
 #sidebar {
 	float: right;
-	display: block;
+	/*display: block;*/
 	width: 250px;
-	/* 	height: 60rem; */
-	/* 	border-width: 0.1em; */
-	/* 	border-style: dashed; */
-	/* 	border-color: black; */
 	padding: 10px;
 	background: lightgray;
 	margin: 20px;
-	/* 	margin-right: 10px; */
+}
+
+p.bio-photo {
+	float: left;
+    width: 17em;
 }
 
 header {
@@ -19,11 +19,8 @@ header {
 }
 
 section {
-	/* 	float: left; */
 	padding-left: 20px;
-	display: block;
-	/* 	width: 81rem; */
-	/* 	height: 50rem; */
+	/*display: block;*/
 }
 
 footer {
